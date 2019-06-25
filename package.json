@@ -1,13 +1,13 @@
 {
   "name": "vidly",
   "version": "1.0.0",
-  "description": "",
+  "description": "Video rental application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aditya Kumar Jha",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
