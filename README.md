@@ -1,8 +1,6 @@
-# This is my first Node App
+# This is basic video rental Node App
 
-> Dependencies : express
-                 joi
-                 nodemon (good to have)
+> Dependencies : express , joi , nodemon (good to have)
 
 ## Quick Start
 
